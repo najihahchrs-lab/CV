@@ -4,7 +4,7 @@
 - Name: Nur Najihah binti Che Rus
 - Email: najihahchrs@gmail.com
 - Phone: (+60) 11-3722 4577
-- Date of Birt: 4 Sept 2005
+- Date of Birth: 4 Sept 2005
 - Nationality: Malaysia
 
 ## Professional Summary
