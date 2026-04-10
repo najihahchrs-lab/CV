@@ -4,7 +4,8 @@
 - Name: Nur Najihah binti Che Rus
 - Email: najihahchrs@gmail.com
 - Phone: (+60) 11-3722 4577
-- LinkedIn: linkedin.com/in/yourprofile
+- Date of Birt: 4 Sept 2005
+- Nationality: Malaysia
 
 ## Professional Summary
 A motivated and dedicated university student with strong communication and teamwork skills. Passionate about learning new knowledge and gaining working experience. Able to work independently and collaboratively in achieving organizational goals.
