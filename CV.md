@@ -7,7 +7,7 @@
 - LinkedIn: linkedin.com/in/yourprofile
 
 ## Professional Summary
-A brief summary of your professional background, highlighting key skills and experiences.
+A motivated and dedicated university student with strong communication and teamwork skills. Passionate about learning new knowledge and gaining working experience. Able to work independently and collaboratively in achieving organizational goals.
 
 ## Experience
 ### Job Title 1
