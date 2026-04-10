@@ -38,9 +38,10 @@ A motivated and dedicated university student with strong communication and teamw
 *30 Sept 2024 - 30 Mac 2029*
 
 ## Skills
-- Skill 1
-- Skill 2
-- Skill 3
+- Microsoft Word
+- Microsoft Excel
+- Teamwork
+- Communication Skills
 
 ## Projects
 ### Project Title  
