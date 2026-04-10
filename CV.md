@@ -43,6 +43,11 @@ A motivated and dedicated university student with strong communication and teamw
 - Teamwork
 - Communication Skills
 
-## Projects
-### Project Title  
-- Brief description of the project, technologies used, and your role.
+## Achievements
+### List of Achievements  
+- Served as a School Prefect during secondary school, demonstrating leadership and responsibility skills.
+- Achieved 7A and 2B in the Sijil Pelajaran Malaysia (SPM) examination, also 4.00 in matriculation.
+- Participated in Entrepreneurship Carnival (FESKOM) during Matriculation, gaining exposure to business and entrepreneurial activities.
+- Appointed as Committee Member in various university programs, contributing to event planning and management.
+- Participated in Mahasiswa Madani Program, enhancing leadership, teamwork, and communication skills.
+
