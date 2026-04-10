@@ -23,7 +23,7 @@ A brief summary of your professional background, highlighting key skills and exp
 - Responsibility/achievement 2
 
 ## Education
-### Degree Title  
+### Economic (Finance)  
 **University Name** - Location  
 *Date Started - Date Ended*
 
