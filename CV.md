@@ -1,9 +1,9 @@
 # CV
 
 ## Contact Information
-- Name: Your Name
-- Email: your.email@example.com
-- Phone: (123) 456-7890
+- Name: Nur Najihah binti Che Rus
+- Email: najihahchrs@gmail.com
+- Phone: (+60) 11-3722 4577
 - LinkedIn: linkedin.com/in/yourprofile
 
 ## Professional Summary
