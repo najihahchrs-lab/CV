@@ -10,17 +10,27 @@
 A motivated and dedicated university student with strong communication and teamwork skills. Passionate about learning new knowledge and gaining working experience. Able to work independently and collaboratively in achieving organizational goals.
 
 ## Experience
-### Job Title 1
-**Company Name** - Location  
-*Date Started - Date Ended*  
-- Responsibility/achievement 1
-- Responsibility/achievement 2
+### Shop Assistant
+**Chibie Liyana (Cosmetic Store)** - Sungai Petani, Kedah  
+*3 Jun 2023 - 3 Sept 2023*  
+- Assisted customers in selecting cosmetic products
+- Managed stock and product display
+- Provided product information and recommendations
 
-### Job Title 2
-**Company Name** - Location  
-*Date Started - Date Ended*  
-- Responsibility/achievement 1
-- Responsibility/achievement 2
+### Waiter
+**Tepi Coffee** - Sungai Petani, Kedah  
+*1 Julai 2024 - 30 November 2024*  
+- Welcomed and served customers
+- Delivered food and drinks to customers
+- Ensured customer satisfaction
+
+### Sales Assistant
+**Ninso Global Sdn Bhd** - Sungai Petani, Kedah  
+*3 Aug 2025 - 29 Oct 2025*  
+- Welcomed and served customers
+- Delivered food and drinks to customers
+- Ensured customer satisfaction
+
 
 ## Education
 ### Economic (Finance)  
