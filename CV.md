@@ -24,8 +24,8 @@ A brief summary of your professional background, highlighting key skills and exp
 
 ## Education
 ### Economic (Finance)  
-**University Name** - Location  
-*Date Started - Date Ended*
+**Sultan Idris Education University** - Tanjong Malim, Perak  
+*30 Sept 2024 - 30 Mac 2029*
 
 ## Skills
 - Skill 1
