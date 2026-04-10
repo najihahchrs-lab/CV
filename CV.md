@@ -27,9 +27,9 @@ A motivated and dedicated university student with strong communication and teamw
 ### Sales Assistant
 **Ninso Global Sdn Bhd** - Sungai Petani, Kedah  
 *3 Aug 2025 - 29 Oct 2025*  
-- Welcomed and served customers
-- Delivered food and drinks to customers
-- Ensured customer satisfaction
+- Assisted customers with product inquiries
+- Managed product arrangement and restocking
+- Promoted products and sales
 
 
 ## Education
